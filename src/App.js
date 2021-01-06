@@ -95,7 +95,7 @@ export default function App() {
           class="fa-footer"
         />
       </a>
-      <a href="https://www.linkedin.com/in/pratham-kumar-abb051175/">
+      <a href="https://www.linkedin.com/in/rachit-tandon12//">
         <img
           src="https://image.flaticon.com/icons/svg/174/174857.svg"
           alt=""
@@ -121,7 +121,7 @@ export default function App() {
           class="fa-footer"
         />
       </a>
-      {/* <a href="https://www.linkedin.com/in/pratham-kumar-abb051175/">
+      
         <i
           onMouseOver={() => setLinkedinIcon(true)}
           onMouseOut={() => setLinkedinIcon(false)}
@@ -132,7 +132,7 @@ export default function App() {
           class=" fa-color fa-2x fa-footer fab fa-linkedin"
         />
       </a>
-      <a href="https://www.facebook.com/profile.php?id=100008740838226">
+      <a href="https://www.facebook.com/profile">
         <i
           onMouseOver={() => setFacebookIcon(true)}
           onMouseOut={() => setFacebookIcon(false)}
@@ -143,7 +143,7 @@ export default function App() {
           class=" fa-color fa-2x fa-footer fab fa-facebook-f"
         />
       </a>
-      <a href="https://www.instagram.com/rnezhmet_dinov/">
+      <a href="https://www.instagram.com/">
         <i
           onMouseOver={() => setInstagramIcon(true)}
           onMouseOut={() => setInstagramIcon(false)}
